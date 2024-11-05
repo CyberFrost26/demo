@@ -1,5 +1,5 @@
 # demo
 my first test repo
 <br>
-Author - Eliza Walter
+Author - Eliza (Coder)
 
